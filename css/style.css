@@ -14,4 +14,20 @@
     /* border-top: 20%; */
     position: absolute;
     margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.aboutAkanNameGenerate h5 {
+    color: plum;
+    text-shadow: black;
+}
+
+h1 {
+    color: plum;
+    text-shadow: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    font-family: 'Courier New', Courier, monospace;
 }
