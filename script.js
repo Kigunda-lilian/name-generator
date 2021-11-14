@@ -1,2 +1,3 @@
-let m = 4
-console.log(m);
+let date = new Date()
+date
+console.log(date);
