@@ -2,8 +2,9 @@ let femaleAkanNames = ['Akosua', 'Adwoa', 'Abenaa', 'Akua', 'Yaa', 'Afua', 'Ama'
 let maleAkanNames = ['Kwasi', 'Kwadwo', 'Kwabena', 'Kwaku', 'Yaw', 'Kofi', 'Kwame']
 let weekDays = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
-var name = AkanNameGenerate => {
-    let name = document.getElementById('success').value;
+function AkanNameGenerate(event) {
+    event.preventDefault
+    let name = document.getElementById('name').value;
     let date = document.getElementById('date').value;
     let gender = document.getElementById('gender').value;
 
