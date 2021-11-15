@@ -15,11 +15,12 @@
 
 ## Description
 ----
-<p>This is my professional portfolio showcasing my skills, experience and projects I have worked on as a software developer. </P>
+<p> This is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name derived from Ghanian culture.
+ </P>
 
 ## program setup
 ----
-###### The website is set up using html, css and bootstrap
+###### The website is set up using html,javascript, css and bootstrap
 
 ## BDD/User stories
 ----
